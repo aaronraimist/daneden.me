@@ -1,3 +1,7 @@
+# This site will soon be moved to [Bitbucket](https://bitbucket.org/daneden/daneden.me/) and deleted from GitHub.
+## https://twitter.com/_dte/status/459867377807527936
+
+
 # Hello, Good Evening, and Welcome
 Welcome to the innards of [my website](http://daneden.me). Fairly recently, my site and I went through a somewhat philosophical change, opting for speed over much else on the backend, and for editorial-inspired design over personal taste. (Of course, the editorial design only goes as far as my personal taste – and writing style – allow.)
 
